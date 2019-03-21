@@ -1,0 +1,21 @@
+/*   Name: Jeanna nechypurenko
+Matrikel: 257705
+Datum: 22.Mrz18
+Hiermit versichere ich, dass ich diesen
+Code selbst geschrieben habe. Er wurde
+nicht kopiert und auch nicht diktiert. */
+
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+    font-family: 'Raleway', sans-serif;
+	list-style: none; 
+	background-color: #dee2f8;
+	text-align: center;
+}
+
+
+h1 {
+	margin-bottom: 3em;
+}
